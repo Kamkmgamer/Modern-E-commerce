@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "QuantumCore Laptop",
+    "price": 1299.99,
+    "currency": "USD",
+    "image": "https://placehold.co/600x400/5e60ce/white?text=QuantumCore+Laptop",
+    "description": "A high-performance laptop with a sleek design, perfect for work and play.",
+    "featured": true,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "AeroGlide Drone",
+    "price": 799.50,
+    "currency": "USD",
+    "image": "https://placehold.co/600x400/7476ed/white?text=AeroGlide+Drone",
+    "description": "Capture stunning aerial footage with this easy-to-fly 4K drone.",
+    "featured": true,
+    "category": "Gadgets"
+  }]
